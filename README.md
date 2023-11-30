@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👨🏻‍💻 &nbsp;About Me:
 
 <p>👋 &nbsp;Hi there! I'm Naman, a third-year undergraduate student at the National University of Singapore.</p>
