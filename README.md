@@ -1,11 +1,11 @@
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>👋 &nbsp;Hi there! I'm Naman, a fourth-year undergraduate student at the National University of Singapore.</p>
-<p>🔍 &nbsp;I'm pursuing double degress in Data Science and Analytics, and Economics, with minor in Computer Science.</p>
-<p>🚀 &nbsp;My technical skillset includes Python, R, Java, and more, and I'm passionate about using these tools in Audio Signal Processing, Computer Vision, and Econometric Modelling to develop novel insights.</p>
-<p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Artifical Intelligence and Statistical Theory as well as expanding my knowledge of advanced algorithms and data structures.</p>
+<p>👋 &nbsp; Hi there! I'm Naman, a pre-doctoral researcher at the National University of Singapore.</p>
+<p>🔍 &nbsp; I graduated with double degrees in Data Science and Analytics, and Economics, with a minor in Computer Science from the National University of Singapore.</p>
+<p>🚀 &nbsp; My technical skillset includes Python, R, Java, and more, and I'm passionate about using these tools in Audio Signal Processing, Computer Vision, and Econometric Modelling to develop novel insights.</p>
+<p>🌱 &nbsp; Currently, I'm working on building my expertise in the field of Artificial Intelligence and Statistical Theory as well as expanding my knowledge of advanced algorithms and data structures.</p>
 <p>📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1PIhlt8CwHEvGKh1w-_fPUSmzcwn0KwL8/view?usp=sharing">Resume</a> for more information about my experience and skills.</p>
-<p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
+<p>🤝 &nbsp; I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
 <h3>Reach out to me 📫</h3>
 <p>
